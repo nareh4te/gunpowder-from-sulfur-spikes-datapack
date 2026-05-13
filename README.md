@@ -1,1 +1,0 @@
-# gunpowder-from-sulfur-spikes-datapack
