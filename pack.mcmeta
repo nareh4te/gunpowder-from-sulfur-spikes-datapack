@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "Crafting recipe for gunpowder from sulfur stalacmites",
+    "pack_format": 101,
+    "supported_formats": {
+      "min_inclusive": 101,
+      "max_inclusive": 1024
+    },
+    "min_format": 101,
+    "max_format": 1024
+  }
+}
